@@ -7,7 +7,7 @@ Include the date you created this project and README file.
 ### THis is Udacity project
 Describe what your project is about and what it does
 
-### Files used
+### Sercan's PC file used
 Include the files used
 
 ### Credits
