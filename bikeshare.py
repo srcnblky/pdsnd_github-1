@@ -222,5 +222,6 @@ def main():
             break
 #edit 
 print ("_Congrat!_")
+print ("_GoodBye_")
 if __name__ == "__main__":
 	main()
