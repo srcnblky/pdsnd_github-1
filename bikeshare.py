@@ -221,7 +221,9 @@ def main():
         if restart.lower() != "yes":
             break
 #edit 
-print ("_Congrat!_")
+print ("_Congrat_")
 print ("_GoodBye_")
+print ("_Hello_")
+print ("_Adios_")
 if __name__ == "__main__":
 	main()
